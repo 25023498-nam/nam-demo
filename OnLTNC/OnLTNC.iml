@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/Week1/Bai04/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week1/Bai05/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week1/Bai06/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week1/Bai07/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week1/Bai08/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Week1/Bai09/src" isTestSource="false" />
+    </content>
+  </component>
+</module>
